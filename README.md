@@ -1,5 +1,6 @@
 - 👋 Olá,eu sou a  @HeloysaF
-- 🌱 Atualmente estou estudando Engenharia de Software 
+- 🌱 Atualmente estou estudando Engenharia de Software
+- Tenho um breve conhecimento em liguagens como Python,Flutter e HTML
 .
 
 <!---
