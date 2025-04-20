@@ -35,4 +35,4 @@
 
 ### 🐍 Snake do GitHub (porque é estilosa 😎)
 
-![snake gif](https://github.com/HeloysaF/HeloysaF/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/HeloysaF/HeloysaF/output/github-contribution-grid-snake.svg)
