@@ -32,7 +32,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-usuario-linkedin](https://www.linkedin.com/in/heloysa-fernandes-soares-42300b352/))
 
 ---
-
-### 🐍 Snake do GitHub (porque é estilosa 😎)
-
-![snake gif](https://raw.githubusercontent.com/HeloysaF/HeloysaF/output/github-contribution-grid-snake.svg)
