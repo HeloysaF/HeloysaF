@@ -19,6 +19,6 @@
 
 ### 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heloysa-fernandes-soares-42300b352/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/heloysa-fernandes-soares-42300b352](https://www.linkedin.com/in/heloysa-fernandes-soares-42300b352?utm_source=share_via&utm_content=profile&utm_medium=member_ios)/)
 
 ---
