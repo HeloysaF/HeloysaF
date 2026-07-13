@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&color=58A6FF&lines=Estudante+de+Engenharia+de+Software;Desenvolvedora+em+formação;Construindo+meu+portfólio;Sempre+aprendendo+algo+novo!" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/heloysa-fernandes-soares-42300b352">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 # 👩‍💻 Sobre mim
@@ -66,17 +60,6 @@
 
 🎮 Projeto de Iniciação Científica *(em desenvolvimento)*
 
----
-
-# 📈 Estatísticas
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HeloysaF&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeloysaF&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
 
 ---
 
