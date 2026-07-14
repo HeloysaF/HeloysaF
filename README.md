@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner da Heloysa" width="100%">
+  <img src="banner (2).png" alt="Banner da Heloysa" width="100%">
 </p>
 
 <h1 align="center">Olá! 👋 Eu sou a Heloysa Fernandes Soares</h1>
