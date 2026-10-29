@@ -7,6 +7,7 @@
   </a>
 </p>
 
+---
 
 ## Sobre
 
@@ -41,22 +42,14 @@ Repositório com as atividades práticas desenvolvidas nas aulas de Front-End do
 ### Estrutura de Dados
 Implementações de estruturas de dados desenvolvidas durante os estudos.
 
-**Tecnologias:** C
+**Tecnologias:** Python
 **Repositório:** [Estrutura de Dados](https://github.com/HeloysaF/Estrutura-de-dados-)
 
 ### Iniciação Científica
 Jogo de tabuleiro criado para ensinar conceitos de gerenciamento de projetos de software. Projeto em desenvolvimento.
 
-## Estatísticas
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HeloysaF&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeloysaF&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ## Contato
-<p align="center">
-  <a href="https://linkedin.com/in/heloysa-fernandes-soares-42300b352">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+
+<a href="https://linkedin.com/in/heloysa-fernandes-soares-42300b352">
+  <img src="https://img.shields.io/badge/LinkedIn-Heloysa_Fernandes_Soares-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
