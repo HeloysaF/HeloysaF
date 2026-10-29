@@ -2,9 +2,10 @@
 <p align="center">Estudante de Engenharia de Software · Java · Desenvolvimento Web</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/heloysa-fernandes-soares-42300b352">LinkedIn</a>
+  <a href="https://linkedin.com/in/heloysa-fernandes-soares-42300b352">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
-
 ---
 
 ## Sobre
@@ -55,4 +56,6 @@ Jogo de tabuleiro criado para ensinar conceitos de gerenciamento de projetos de 
 
 ## Contato
 
-- LinkedIn: [heloysa-fernandes-soares](https://linkedin.com/in/heloysa-fernandes-soares-42300b352)
+<a href="https://linkedin.com/in/heloysa-fernandes-soares-42300b352">
+  <img src="https://img.shields.io/badge/LinkedIn-Heloysa_Fernandes_Soares-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
