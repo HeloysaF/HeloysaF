@@ -35,13 +35,13 @@ O projeto está em desenvolvimento, com back-end em Java e integração com banc
 Repositório com as atividades práticas desenvolvidas nas aulas de Front-End do 3º semestre, com exercícios de HTML, CSS, JavaScript e Bootstrap.
 
 **Tecnologias:** HTML, CSS, JavaScript, Bootstrap
-**Repositório:** [Projeto Front-End]((https://github.com/HeloysaF/FrontEnd_2026))
+**Repositório:** [Projeto Front-End](https://github.com/HeloysaF/FrontEnd_2026)
 
 ### Estrutura de Dados
 Implementações de estruturas de dados desenvolvidas durante os estudos.
 
 **Tecnologias:** C
-**Repositório:** [Estrutura de Dados]([(https://github.com/HeloysaF/Estrutura-de-dados-)])
+**Repositório:** [Estrutura de Dados](https://github.com/HeloysaF/Estrutura-de-dados-)
 
 ### Iniciação Científica
 Jogo de tabuleiro criado para ensinar conceitos de gerenciamento de projetos de software. Projeto em desenvolvimento.
