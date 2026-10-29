@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou a Heloysa 👋
+# Olá, eu sou a Heloysa 
 
 ### Estudante de Engenharia de Software
 **Desenvolvimento Web · Java · Engenharia de Software**
@@ -11,17 +11,17 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+##  Sobre mim
 
 Sou estudante de Engenharia de Software e tenho interesse em desenvolvimento de software, especialmente desenvolvimento web e Java.
 
 Participo de projetos acadêmicos e pessoais que envolvem etapas como **levantamento de requisitos, modelagem, documentação e implementação**. Também faço parte de um projeto de **Iniciação Científica** na área de Engenharia de Software.
 
-🎯 **Busco minha primeira oportunidade em tecnologia**, como estagiária ou desenvolvedora júnior, para aprender, colaborar e contribuir com soluções de software.
+ **Busco minha primeira oportunidade em tecnologia**, como estagiária ou desenvolvedora júnior, para aprender, colaborar e contribuir com soluções de software.
 
 ---
 
-## 🛠️ Tecnologias e estudos
+##  Tecnologias e estudos
 
 <div align="center">
 
@@ -35,9 +35,9 @@ Participo de projetos acadêmicos e pessoais que envolvem etapas como **levantam
 
 ---
 
-## 🚀 Projetos
+##  Projetos
 
-### 🏛️ Portal do Cidadão
+###  Portal do Cidadão
 
 Plataforma em desenvolvimento que aproxima a população das decisões das câmaras de vereadores. Apresenta leis em linguagem simples e permite que cidadãos registrem suas opiniões.
 
@@ -47,7 +47,7 @@ Plataforma em desenvolvimento que aproxima a população das decisões das câma
 
 ---
 
-### 🎨 Projeto Front-End
+### Projeto Front-End
 
 Repositório com atividades práticas desenvolvidas nas aulas de Front-End do 3º semestre.
 
@@ -56,7 +56,7 @@ Repositório com atividades práticas desenvolvidas nas aulas de Front-End do 3�
 
 ---
 
-### 🧩 Estrutura de Dados
+###  Estrutura de Dados
 
 Implementações desenvolvidas durante meus estudos para praticar conceitos fundamentais de estruturas de dados.
 
@@ -65,13 +65,13 @@ Implementações desenvolvidas durante meus estudos para praticar conceitos fund
 
 ---
 
-### 🔬 Iniciação Científica
+###  Iniciação Científica
 
 Projeto em desenvolvimento na área de Engenharia de Software: um jogo de tabuleiro criado para ensinar conceitos de gerenciamento de projetos de software.
 
 ---
 
-## 📫 Contato
+##  Contato
 
 Estou aberta a oportunidades de estágio e posições júnior em tecnologia. Vamos nos conectar!
 
